@@ -1,0 +1,15 @@
+http://blog.h2o.ai/2016/04/fast-csv-writing-for-r/
+http://blog.revolutionanalytics.com/user-groups/
+http://dmlc.ml/rstats/2016/03/10/xgboost.html
+http://f.briatte.org/r/submitting-packages-to-cran
+http://f.local/r/string-manipulation-on-full-names
+http://f.local/r/sustainable-code-for-social-scientists
+http://juliasilge.com/blog/How-I-Stopped/
+http://md.ekstrandom.net/blog/2016/04/using-r/
+http://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/
+http://trestletech.com/2016/03/09/eigencoder/
+http://www.example.com
+http://www.r-statistics.com/2016/03/its-not-the-p-values-fault-reflections-on-the-recent-asa-statement/
+http://www1.cuni.cz/~obo/r_surprises.html
+https://ironholds.org/projects/rbitrary/
+https://kevinushey.github.io/blog/2015/01/24/understanding-data-frame-subsetting/

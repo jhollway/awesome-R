@@ -1,0 +1,14 @@
+s|http://faculty.marshall.usc.edu/gareth-james/ISL/|https://www.statlearning.com/|g
+s|http://gexf.net/format/|https://gexf.net/|g
+s|https://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/|https://rafalab.dfci.harvard.edu/pages/harvardx.html|g
+s|http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/|https://www.john-fox.ca/RCommander/|g
+s|https://www.rforscience.com/rpackages/visualisation/plot3d/|https://cran.r-project.org/package=plot3D|g
+s|https://www.walware.de/goto/statet|https://eclipse.dev/statet/|g
+s|https://bitbucket.org/allr/fastr/wiki/Home|https://github.com/oracle/fastr|g
+s|https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp|https://marketplace.visualstudio.com/items?itemName=REditorSupport.r|g
+s|https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r|https://marketplace.visualstudio.com/items?itemName=REditorSupport.r|g
+s|https://r-podcast.org/stories/contact.html|https://www.r-podcast.org/contact|g
+s|https://soundcloud.com/nssd-podcast|https://podcasts.apple.com/us/podcast/not-so-standard-deviations/id1040614570|g
+s|https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0|https://www.edx.org/learn/r-programming/harvard-university-statistics-and-r|g
+s|https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming|https://www.packtpub.com/en-us/product/learning-r-programming-9781785880629|g
+s|https://www.r-project.org/conferences.html|https://www.r-project.org/conferences/|g
