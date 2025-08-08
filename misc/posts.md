@@ -20,11 +20,9 @@
 
 ## 2/2016
 
-1. [Sustainable code for social scientists](http://f.local/r/sustainable-code-for-social-scientists) <br/>@ François Briatte **#reproducible #code**  <br/> &nbsp;
 
 ## 1/2016
 
-1. [String manipulations on full names](http://f.local/r/string-manipulation-on-full-names)  <br/>@ François Briatte **#string #preprocess** <br/> This note shows how to use the stringr package to clean a list of full names. <br/> &nbsp;
 
 ## 1/2015
 
